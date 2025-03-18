@@ -3,7 +3,12 @@ bbbbbbb
 ccccccccc
 KKKKKKKKKKK
 very good from austin
+<<<<<<< HEAD
 Austin不知道远程已经修改啦 Austin只是在本地添加了当前这句话
 
 very good from austin
+BBBBBBBBBBB
+KFSka
+乱七八糟
 
+add a very unstable chat function from austin
